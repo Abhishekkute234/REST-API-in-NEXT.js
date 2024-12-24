@@ -21,4 +21,5 @@
 ->Create a custer in Mongodb and add the mongodb url in the .env file
 
 ->create a lib folder and add db.ts file in it to connect to see the database connection status
-->
+
+->create a model folder and add user.ts file in it to create a user model
