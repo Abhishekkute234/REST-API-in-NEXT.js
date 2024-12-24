@@ -1,15 +1,17 @@
 # REST-API-in-NEXT.js
 
-<h2>Create next.js 14 project</h2>
-<h2>API folder /files structure in next.js 14+ app directory</h2>
-<h2>Connecting with database </h2>
-<h2>Build relational data models </h2>
-<h2>Build API endpoints </h2>
-<h2>Add filtering , searching , pagination </h2>
-<h2>Protect API's</h2>
-<h2>Middlewares </h2>
-<h2>Deployment </h2>
+<h1>Topics</h1>
+<h4>Create next.js 14 project</h4>
+<h4>API folder /files structure in next.js 14+ app directory</h4>
+<h4>Connecting with database </h4>
+<h4>Build relational data models </h4>
+<h4>Build API endpoints </h4>
+<h4>Add filtering , searching , pagination </h4>
+<h4>Protect API's</h4>
+<h4>Middlewares </h4>
+<h4>Deployment </h4>
 
+<h1>Steps </h1>
 ->api/user will the name of the URL of the API and make a file route.ts
 (name should be the same )
 
