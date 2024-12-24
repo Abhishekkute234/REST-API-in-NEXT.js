@@ -17,3 +17,7 @@
 
 ->api / (auth )/users will be the name of the URL of the API and make a file route.ts
 (the bracket should not be count )
+
+->Create a custer in Mongodb and add the mongodb url in the .env file
+->create a lib folder and add db.ts file in it to connect to see the database connection status
+->
