@@ -22,4 +22,11 @@
 
 ->create a lib folder and add db.ts file in it to connect to see the database connection status
 
-->create a model folder and add user.ts file in it to create a user model
+->create a model folder and add user.ts file in it to create a user model in lib/models/users
+
+->Create a get request in routes.ts file to get all users from the user model and run the code
+![alt text](image.png)
+-> the user is created in the collection that means our DB connection is successful
+
+-> Go to the postman and
+![alt text](image-1.png)
