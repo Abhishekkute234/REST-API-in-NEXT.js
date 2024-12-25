@@ -26,7 +26,8 @@
 
 ->Create a get request in routes.ts file to get all users from the user model and run the code
 ![alt text](image.png)
--> the user is created in the collection that means our DB connection is successful
+-> The user is created in the collection that means our DB connection is successful
 
 -> Go to the postman and
 ![alt text](image-1.png)
+-> Here the Database is working properly
