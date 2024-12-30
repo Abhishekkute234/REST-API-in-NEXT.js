@@ -31,3 +31,13 @@ Deployment </h4>
 -> Go to the postman and
 ![alt text](image-1.png)
 -> Here the Database is working properly
+
+-> Create a post request in routes.ts file to create a new user and run the code and add the data according the schema
+
+![alt text](image.png)
+
+<h3>PAtCH Request </h3>
+![alt text](image-1.png)
+
+<h4>Delete Reqest </h4>
+![alt text](image-2.png)
